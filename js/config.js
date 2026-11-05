@@ -8,7 +8,7 @@ const NEQUI = '312 777 6525';           // tu número de Nequi
 /* ---------- INICIO (fondo rosado + producto 3D girando) ---------- */
 const HERO = {
   model: 'img/producto1.glb',         // tu objeto 3D (formato .glb) — pon el archivo en la carpeta /models
-  fallback: 'img/celestial-base.webp',  // imagen que se ve mientras carga o si no hay modelo 3D
+  fallback: '',  // imagen que se ve mientras carga o si no hay modelo 3D
   word: 'BLOOM',                        // palabra gigante detrás del producto
   left:  { n: '001.', t: 'Blush y Bloom<br>Beauty' },
   right: { n: '002.', t: 'Nueva colección<br>Diciembre' },
