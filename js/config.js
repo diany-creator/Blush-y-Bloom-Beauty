@@ -28,7 +28,7 @@ const TONOS = [
 ];
 
 /* ---------- VIDEO A PANTALLA COMPLETA ---------- */
-const VIDEO_SRC = 'https://drive.google.com/file/d/1Bs-y-oQpkpvvPhnFJLrFGad2IHcokKWr/preview';
+const VIDEO_SRC = 'https://res.cloudinary.com/ibffvjvz/image/upload/f_auto,q_auto/Base_celestial_de_maquillaje_rosa';
 
 /* ---------- IMÁGENES CON MENSAJES (belleza de la mujer) ---------- */
 const MOTI = [
