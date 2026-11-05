@@ -28,7 +28,7 @@ const TONOS = [
 ];
 
 /* ---------- VIDEO A PANTALLA COMPLETA ---------- */
-const VIDEO_SRC = 'img/Video .mp4';    // pon tu video en la carpeta /video
+const VIDEO_SRC = 'https://drive.google.com/file/d/1Bs-y-oQpkpvvPhnFJLrFGad2IHcokKWr/view?usp=sharing';    // pon tu video en la carpeta /video
 
 /* ---------- IMÁGENES CON MENSAJES (belleza de la mujer) ---------- */
 const MOTI = [
